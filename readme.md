@@ -32,7 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<<<<<<< HEAD
 O Dev Links é um projeto usado como um cartão de visitas e perfil online com Links .
 
 ## 🔖 Layout
