@@ -1,25 +1,25 @@
 *{
   margin:0;
   padding:0;
-box-sizing: border-box;
+  box-sizing: border-box;
 }
 :root{
   --text-color:white;
   --bg-url:url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255,255,255,0.5);
-  --surface-color: rgba(255,255,255,0.1);
+  --surface-color: rgba(255,255,255,0.5);
   --surface-color-hover:rgba(255,255,255,0.05) ;
-  --highlight-color- :rgba(255, 255, 255, 0.20);
+  --highlight-color- : rgba (255, 255, 255,0.2) ;
   --switch-bg-url:url(assets/moon-stars.svg) ;
 }
 
 .light{
   --text-color:black ;
   --bg-url:url(./assets/bg-mobile-light.jpg) ;
-  --stroke-color: rgba(0, 0, 0, 0.50);
+  --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color:rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --highlight-color-hover:rgba(0, 0, 0, 0.10);
+  --highlight-color-hover:rgba(0, 0, 0, 0.1);
   --switch-bg-url:url(assets/sun-stars.svg) ;
 }
 
@@ -68,7 +68,6 @@ body {
   height: 112px;
   border-radius: 50%;
   border: 2px solid var(--stroke-color);
-
 }  
 
 /* botao */
@@ -107,6 +106,7 @@ body {
   background: var(--surface-color);
   border-radius: 9999px;
   backdrop-filter: blur (4px);
+  
 }
 
 /*lista*/
