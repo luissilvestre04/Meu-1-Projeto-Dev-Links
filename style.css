@@ -91,11 +91,11 @@ body {
   transform: translateY(-50%);
   top: 50%;
 
+  animation: direita 0.2s forwards;
 }
 
 .light #switch button{
-  right:0;
-  left: initial;
+  animation: esquerda 0.2s ;
 }
 
 #switch span{
@@ -107,6 +107,10 @@ body {
   border-radius: 9999px;
   backdrop-filter: blur (4px);
   -webkit-backdrop-filter: blur(4px);
+}
+
+#switch button:hover{
+ outline: 8px solid grey
 }
 
 /*lista*/
@@ -190,6 +194,24 @@ ul li a:hover {
   }
  }
 
+ /* button animation*/
+ @keyframes direita {
+  from{
+    left: 0;
+    }
+  to {
+    left: 50%;
+    }
+ }
+
+ @keyframes esquerda{
+from{
+   left: 50%;
+  }
+to  {
+left: 0;
+  }
+ }
 
 
 
