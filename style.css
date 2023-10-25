@@ -159,8 +159,10 @@ ul li a:hover {
   
   padding: 24px 0;
 
-  font-size: 24px; 
+  font-size: 26px; 
   
+  border: 2px solid var(--stroke-color);
+  border-radius: 8px;
 }
 
  #social-links a:hover{
