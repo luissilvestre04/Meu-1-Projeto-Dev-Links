@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Dev Links é um projeto usado como um cartão de visitas e perfil online com Links .
 
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/bjsXWh2J13pFgUZo3GL5WC/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=0%3A1&mode=design&t=zHxzfGOjIJkvMLem-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -46,5 +47,7 @@ Esse foi o MEU PRIMEIRO PROJETO na Programaçao. Aprendi usar ferramentas como F
 Esse projeto está sob a licença MIT.
 
 ---
+## Resultado ⬇⬇⬇
+[ProjetoDevLinks](https://luissilvestre04.github.io/Meu-1-Projeto-Dev-Links) 
 
 Feito com ♥ by Luis Silvestre :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
