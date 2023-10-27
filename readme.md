@@ -40,7 +40,7 @@ O Dev Links é um projeto usado como um cartão de visitas e perfil online com L
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/bjsXWh2J13pFgUZo3GL5WC/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=0%3A1&mode=design&t=zHxzfGOjIJkvMLem-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🧠 Aprendizado 
-Esse foi o MEU PRIMEIRO PROJETO na Programaçao. Aprendi usar ferramentas como Figma, Git, Github, JavaScript HTML e CSS ao executar o projeto.
+Esse foi o MEU PRIMEIRO PROJETO na Programação. Aprendi usar ferramentas como Figma, Git, Github, JavaScript, HTML e CSS ao executar o projeto.
 
 ## :memo: Licença
 
