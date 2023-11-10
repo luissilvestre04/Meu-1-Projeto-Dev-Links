@@ -161,8 +161,7 @@ ul li a:hover {
 
   font-size: 26px; 
   
-  border: 2px solid var(--stroke-color);
-  border-radius: 8px;
+  
 }
 
  #social-links a:hover{
